@@ -3,6 +3,4 @@ flask_cors
 flask_marshmallow
 flask_sqlalchemy
 sqlalchemy
-math
-datetime
 gunicorn
